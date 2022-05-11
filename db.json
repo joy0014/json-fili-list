@@ -1,0 +1,258 @@
+{
+  "students":[
+     {
+        "studentName":"joy",
+        "roll":1,
+        "age":8,
+        "class":"five",
+        "gender":"male",
+        "location":"bogura",
+        "mark":{
+           "Bangla":80,
+           "English":88,
+           "Math":93,
+           "SocialWork":87,
+           "Religion":84,
+           "Ict":87
+        }
+     },
+     {
+        "studentName":"juli",
+        "roll":2,
+        "age":9,
+        "class":"five",
+        "gender":"female",
+        "location":"sylhet",
+        "mark":{
+           "Bangla":83,
+           "English":83,
+           "Math":63,
+           "SocialWork":87,
+           "Religion":74,
+           "Ict":93
+        }
+     },
+     {
+        "studentName":"alo",
+        "roll":3,
+        "age":7,
+        "class":"five",
+        "gender":"female",
+        "location":"dhaka",
+        "mark":{
+           "Bangla":83,
+           "English":78,
+           "Math":98,
+           "SocialWork":63,
+           "Religion":81,
+           "Ict":69
+        }
+     },
+     {
+        "studentName":"basir",
+        "roll":4,
+        "age":7,
+        "class":"five",
+        "gender":"male",
+        "location":"uttora",
+        "mark":{
+           "Bangla":64,
+           "English":73,
+           "Math":80,
+           "SocialWork":89,
+           "Religion":83,
+           "Ict":77
+        }
+     },
+     {
+        "studentName":"jamela",
+        "roll":5,
+        "age":10,
+        "class":"five",
+        "gender":"female",
+        "location":"bogura",
+        "mark":{
+           "Bangla":83,
+           "English":81,
+           "Math":89,
+           "SocialWork":77,
+           "Religion":74,
+           "Ict":77
+        }
+     },
+     {
+        "studentName":"rifa",
+        "roll":6,
+        "age":10,
+        "class":"five",
+        "gender":"female",
+        "location":"bogura",
+        "mark":{
+           "Bangla":88,
+           "English":78,
+           "Math":91,
+           "SocialWork":87,
+           "Religion":74,
+           "Ict":92
+        }
+     },
+     {
+        "studentName":"shuvo",
+        "roll":7,
+        "age":9,
+        "class":"five",
+        "gender":"male",
+        "location":"pabna",
+        "mark":{
+           "Bangla":67,
+           "English":88,
+           "Math":81,
+           "SocialWork":87,
+           "Religion":84,
+           "Ict":87
+        }
+     },
+     {
+        "studentName":"sweki",
+        "roll":8,
+        "age":8,
+        "class":"five",
+        "gender":"female",
+        "location":"pabna",
+        "mark":{
+           "Bangla":68,
+           "English":80,
+           "Math":91,
+           "SocialWork":87,
+           "Religion":78,
+           "Ict":80
+        }
+     },
+     {
+        "studentName":"rahim",
+        "roll":9,
+        "age":11,
+        "class":"five",
+        "gender":"male",
+        "location":"dhaka",
+        "mark":{
+           "Bangla":78,
+           "English":68,
+           "Math":89,
+           "SocialWork":27,
+           "Religion":84,
+           "Ict":87
+        }
+     },
+     {
+        "studentName":"mumin",
+        "roll":10,
+        "age":9,
+        "class":"five",
+        "gender":"male",
+        "location":"uttora",
+        "mark":{
+           "Bangla":78,
+           "English":58,
+           "Math":73,
+           "SocialWork":87,
+           "Religion":84,
+           "Ict":32
+        }
+      }
+    ]   ,
+
+"Teacher":[
+       {
+          "TeacherName":"Md.Adul harim",
+          "Age":38,
+          "Education Qualification": "BCS Honors in English",
+          "Gender":"Male",
+          "Home-District":"Bogura",
+          "Material status": "Married"
+          
+       },
+       {
+        "TeacherName":"Md. Jabbar",
+        "Age":28,
+        "Education Qualification": "BCS Honors in Bangla",
+        "Gender":"Male",
+        "Home-District":"Bogura",
+        "Material status": "Un-married"
+        
+     },
+     {
+      "TeacherName":"Md.Soikot",
+      "Age":45,
+      "Education Qualification": "BCS Honors in Biology",
+      "Gender":"Male",
+      "Home-District":"Uttora",
+      "Material status": "Married"
+      
+      },
+      {
+        "TeacherName":"Md.Kawsar Ali",
+        "Age":52,
+        "Education Qualification": "BCS Honors in Geography",
+        "Gender":"Male",
+        "Home-District":"Rangpur",
+        "Material status": "Married"
+         
+      },
+      {
+        "TeacherName":"Mst. Hafsa Begum",
+        "Age":39,
+        "Education Qualification": "BCS Honors in Social-Science",
+        "Gender":"Female",
+        "Home-District":"Rangpur",
+        "Material status": "Married"
+        
+       },
+       {
+        "TeacherName":"Md. Moynul ",
+        "Age":28,
+        "Education Qualification": "BCS Honors in English",
+        "Gender":"Male",
+        "Home-District":"Dhaka",
+        "Material status": "Un-married"
+        
+     },
+     {
+      "TeacherName":"Md.Ad-deen",
+      "Age":58,
+      "Education Qualification": "BBA",
+      "Gender":"Male",
+      "Home-District":"Rajshahi",
+      "Material status": "Married"
+      
+   },
+   {
+    "TeacherName":"Mst.Nusrat Akter",
+    "Age":27,
+    "Education Qualification": "BCS Honors in Math",
+    "Gender":"Female",
+    "Home-District":"Bogura",
+    "Material status": "Un-married"
+    
+     },
+     {
+      "TeacherName":"Md.Kousik",
+      "Age":38,
+      "Education Qualification": "BCS Honors in Physics",
+      "Gender":"male",
+      "Home-District":"Joypurhaat",
+      "Material status": "Married"
+      
+   },
+   {
+    "TeacherName":"Mst.Sohagi Akter",
+    "Age":48,
+    "Education Qualification": "BBA",
+    "Gender":"Female",
+    "Home-District":"Bogura",
+    "Material status": "Married"
+    
+   }
+       
+    ]
+  }
